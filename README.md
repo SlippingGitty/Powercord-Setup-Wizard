@@ -1,3 +1,5 @@
+## A friend of mine is working on a way better project, Plugin Manager (PMA). A CLI tool that installs Powercord, and enables you to download addons and themes directly from it. [Click here to check it out](https://github.com/pluginmanagerr/pma/tree/main)
+
 ## [Powercord Setup Wizard](https://gitcdn.link/repo/SlippingGitty/Powercord-Setup-Wizard/main/PowercordSetupWizard.sh)
 A simple (unoffical) .sh script that gives it's users a GUI-like menu to install Powercord.
 
