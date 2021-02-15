@@ -12,3 +12,7 @@ A simple (unoffical) .sh script that gives it's users a GUI-like menu to install
 * Downloads Powercord into home directory
 * Updates Powercord to latest version
 * Can un/inject Powercord into Canary
+
+___
+
+**Also see:** [Vizality Setup Wizard](https://github.com/SlippingGitty/sh-scripts/blob/main/installers/Discord/VizalitySetupWizard.sh)
