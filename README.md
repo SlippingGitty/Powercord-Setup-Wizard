@@ -2,6 +2,7 @@
 
 ## [Powercord Setup Wizard](https://gitcdn.link/repo/SlippingGitty/Powercord-Setup-Wizard/main/PowercordSetupWizard.sh)
 A simple (unoffical) .sh script that gives it's users a GUI-like menu to install Powercord.
+* Requires `git` and `npm` 
 
 *(Note: Be sure to `chmod` the proper perms for the script to work properly)*
 
