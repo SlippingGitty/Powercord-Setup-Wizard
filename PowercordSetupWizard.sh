@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 #         ____  ____________       __
 #        / __ \/ ____/ ___/ |     / /
 #       / /_/ / /    \__ \| | /| / / 
@@ -47,7 +47,7 @@ clear
             # Updates Powercord to latest version
                 ;;
             3)
-                cd powercord && sudo npm run plug
+                cd powercord && sudo run plug
                 cd
             # Injects Powercord into Canary
                 ;;
