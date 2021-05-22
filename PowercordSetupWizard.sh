@@ -39,20 +39,28 @@ clear
             1)  
                 cd        
                 git clone https://github.com/powercord-org/powercord
+                echo Finished.
+                sleep 3
             # Downloads Powercord files
                 ;;
             2)
                 cd powercord && git pull
+                echo Finished.
+                sleep 3
                 cd
             # Updates Powercord to latest version
                 ;;
             3)
                 cd powercord && sudo run plug
+                echo Finished.
+                sleep 3
                 cd
             # Injects Powercord into Canary
                 ;;
             4)
                 cd powercord && sudo npm run unplug
+                echo Finished.
+                sleep 3
                 cd
             # Uninjects
                 ;;
