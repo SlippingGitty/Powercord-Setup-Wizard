@@ -51,7 +51,7 @@ clear
             # Updates Powercord to latest version
                 ;;
             3)
-                cd powercord && sudo run plug
+                cd powercord && sudo npm run plug
                 echo Finished.
                 sleep 3
                 cd
