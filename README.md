@@ -1,3 +1,5 @@
+#### Notice: A proper GUI installer is being made here: https://github.com/AQRRastiq/PowercordInstaller
+
 # Powercord Setup Wizard
 A simple (unoffical) .sh script that downloads and injects Powercord.
 
